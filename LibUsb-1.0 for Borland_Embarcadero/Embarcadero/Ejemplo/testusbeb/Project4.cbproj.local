@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/22 21:00:51.000.796,=C:\Users\PC1\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>2021/09/22 21:00:57.000.306,=C:\Users\PC1\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2021/09/22 21:04:13.000.440,=C:\BB\testusbeb\libusb.lib</Transaction>
+    <Transaction>2021/09/22 21:07:12.000.225,C:\Users\PC1\Documents\Embarcadero\Studio\Projects\Unit5.dfm=C:\BB\testusbeb\Unit5.dfm</Transaction>
+    <Transaction>2021/09/22 21:07:12.000.225,C:\Users\PC1\Documents\Embarcadero\Studio\Projects\Unit5.cpp=C:\BB\testusbeb\Unit5.cpp</Transaction>
+    <Transaction>2021/09/22 21:07:12.000.225,C:\Users\PC1\Documents\Embarcadero\Studio\Projects\Unit5.h=C:\BB\testusbeb\Unit5.h</Transaction>
+    <Transaction>2021/09/22 21:07:14.000.995,C:\Users\PC1\Documents\Embarcadero\Studio\Projects\Project4PCH1.h=C:\BB\testusbeb\Project4PCH1.h</Transaction>
+    <Transaction>2021/09/22 21:07:16.000.333,C:\Users\PC1\Documents\Embarcadero\Studio\Projects\Project4.cbproj=C:\BB\testusbeb\Project4.cbproj</Transaction>
+    <Transaction>2021/09/24 10:01:44.535,C:\BB\testusbeb\libusb.lib=</Transaction>
+    <Transaction>2021/09/24 10:02:20.021,=C:\Program Files (x86)\Embarcadero\libusb_mio\como usar.txt</Transaction>
+    <Transaction>2021/09/24 10:02:20.037,=C:\Program Files (x86)\Embarcadero\libusb_mio\libusb-1.0.lib</Transaction>
+  </Transactions>
+</BorlandProject>

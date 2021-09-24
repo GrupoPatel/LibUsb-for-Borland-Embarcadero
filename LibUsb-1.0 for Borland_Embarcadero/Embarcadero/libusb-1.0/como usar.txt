@@ -1,0 +1,4 @@
+Basado en LibUsb 1.0 (https://github.com/libusb/libusb/releases)
+
+La forma mas fácil es añadir los ficheros .h y .lib al proyecto. No introducir los directorios de Include o Librerias.
+En el caso de embarcadero, Proyect->Add to proyect  
